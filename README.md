@@ -168,6 +168,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - WordPress - https://www.wordpress.org
 - Drupal - https://www.drupal.com
 - Joomla - https://www.joomla.org
+- Apollyx - https://www.apollyx.com (AI page builder for service businesses: booking pages, waivers, intake forms in minutes)
 
 ### Ecommerce CMS:
 - WooCommerce for WordPress - https://www.woocommerce.com
